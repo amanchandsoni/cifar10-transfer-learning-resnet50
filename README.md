@@ -1,1 +1,0 @@
-"# mnist-deep-learning-comparison" 
